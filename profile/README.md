@@ -5,7 +5,9 @@
 ### Institutional-Grade Quantitative Trading. For Everyone.
 
 [![Platform](https://img.shields.io/badge/Platform-ferroquant.com-00ff6a?style=for-the-badge&labelColor=0d1117)](https://ferroquant.com)
-[![The Science](https://img.shields.io/badge/The_Science-Read_the_Whitepaper-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ferroquant.github.io/research)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Read_the_Research-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ferroquant.github.io/whitepaper)
+[![Overview](https://img.shields.io/badge/The_Science-Research_Overview-8b949e?style=for-the-badge&labelColor=0d1117)](https://ferroquant.github.io/research)
+[![Reddit](https://img.shields.io/badge/Community-r%2Fferroquant__dev-ff4500?style=for-the-badge&logo=reddit&labelColor=0d1117)](https://www.reddit.com/r/ferroquant_dev)
 
 </div>
 
@@ -57,7 +59,7 @@ Signal engines and execution core in **Rust** for sub-millisecond latency. Data 
 
 <div align="center">
 
-**[→ Read the Science](https://ferroquant.github.io/research)** &nbsp;&nbsp;·&nbsp;&nbsp; **[→ Access the Platform](https://ferroquant.com)**
+**[→ Full Whitepaper](https://ferroquant.github.io/whitepaper)** &nbsp;&nbsp;·&nbsp;&nbsp; **[→ Research Overview](https://ferroquant.github.io/research)** &nbsp;&nbsp;·&nbsp;&nbsp; **[→ Access the Platform](https://ferroquant.com)**
 
 *The edge is systematic. The access is yours.*
 
