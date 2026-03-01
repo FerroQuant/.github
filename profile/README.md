@@ -1,6 +1,6 @@
 <div align="center">
 
-# FerroQuant
+<img src="https://ferroquant.github.io/logo-horizontal.svg" alt="FerroQuant" height="60">
 
 ### Institutional-Grade Quantitative Trading. For Everyone.
 
